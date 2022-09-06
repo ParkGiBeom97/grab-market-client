@@ -38,7 +38,10 @@ function App() {
             </Route>
           </switch>
         </div>
-        <div id="footer"> 제작자: 박기범 </div>
+        <div id="footer">
+          제작자: 박기범<br />
+          취업하고 싶다
+        </div>
       </div>
     </div>
   );

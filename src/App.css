@@ -40,6 +40,8 @@ html, body, #root, #root > div {
 #footer {
   height: 200px;
   background-color: rgb(230, 230, 230);
+  font-size: 3.0rem;
+  text-align: center;
 }
 
 @media screen and (max-width: 400px){
