@@ -38,7 +38,7 @@ function App() {
             </Route>
           </switch>
         </div>
-        <div id="footer"></div>
+        <div id="footer"> 제작자: 박기범 </div>
       </div>
     </div>
   );
